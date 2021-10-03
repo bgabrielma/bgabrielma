@@ -21,3 +21,10 @@ You can check my **professional** or/and **academic** career here, on [**Linkedi
   <img src="https://github-readme-stats.vercel.app/api?username=bgabrielma&&show_icons=true&title_color=ffffff&icon_color=ffffff&text_color=daf7dc&bg_color=GRAD,1E90FF,00BFFF">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bgabrielma&layout=compact&bg_color=GRAD,1E90FF,00BFFF&text_color=daf7dc&icon_color=ffffff&title_color=ffffff&langs_count=20">
  </p>
+ 
+ 
+# 
+### Feature Projects
+[![Project Syncready](https://github-readme-stats.vercel.app/api/pin/?username=bgabrielma&repo=project-syncready)](https://github.com/bgabrielma/project-syncready)
+[![RCC Auto Script](https://github-readme-stats.vercel.app/api/pin/?username=bgabrielma&repo=source-rcc-auto-script)](https://github.com/bgabrielma/source-rcc-auto-script)
+
