@@ -1,6 +1,6 @@
 ### Hi devs, I'm Bruno Martins! 👋
 > I'm a dev who just loves coding and learn new things
-#
+>
 - 🔭&nbsp;&nbsp; I’m currently working on [**M-INUSCODE**](https://minuscode.com) as a Mobile Developer and Tester as well as some full stack tasks as a **Junior Developer**
 - 🌱 &nbsp;&nbsp; I’m currently learning GO and Ruby - (back-end world), improving my skills in mobile, Node.JS and learning a little more about architectural patterns. Improving my english as well.
 
