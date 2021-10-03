@@ -6,7 +6,7 @@
 - 👯&nbsp;&nbsp; I’m looking to collaborate on any kind of software
 - 🤔&nbsp;&nbsp; I’m looking for help with my skills and certainly, help you, or help **us** to learning and growing up even more.
 - 💬&nbsp;&nbsp; Ask me about any kind of technology stuff and I'll be glad by searching more about and learning, learning and learning it :)
-- 📫&nbsp;&nbsp; How to reach me: [**Linkedin - Bruno Martins**](https://www.linkedin.com/in/bruno-martins-1289a8174/), [**Email contact**](mailto:b.gabriel.ma@gmail.com), [**Dev Mail**](b.gabriel.ma.dev@gmail.com)
+- 📫&nbsp;&nbsp; How to reach me: [**Linkedin - Bruno Martins**](https://www.linkedin.com/in/bruno-martins-1289a8174/), [**Email contact**](mailto:b.gabriel.ma@gmail.com), [**Dev Mail**](mailto:b.gabriel.ma.dev@gmail.com)
  
 - 😄&nbsp;&nbsp; Pronouns: Honestly, I don't know how to say it in words eheh.
 - ⚡&nbsp;&nbsp; Fun fact: I'm always thinking about new stuff and think how that **new stuff** would help me in my future projects that sometimes consumes me.
